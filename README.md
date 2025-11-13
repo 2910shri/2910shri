@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shriharsh kulkarni</h1>
-<h3 align="center">A frontend developer from India</h3>
+<h3 align="center">A Java developer from India</h3>
 
-- 🌱 I’m currently learning **java, mern stack**
+- 🌱 I’m currently learning **java fullstack**
 
 - 📫 How to reach me **kulkarnishriharsh2910@gmail.com**
 
