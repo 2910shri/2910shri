@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shriharsh kulkarni</h1>
 <h3 align="center">A Java developer from India</h3>
 
-- 🌱 I’m currently learning **java fullstack**
+- 🌱 I’m completed my graduation in 2025 
 
 - 📫 How to reach me **kulkarnishriharsh2910@gmail.com**
 
